@@ -1,8 +1,5 @@
 # 🏸 AI Order Manager
 
-A simple backend service for managing product orders with AI-powered notifications.  
-Built with **FastAPI**, **SQLite** and **OpenAI API**.
-
 ---
 
 ## ✨ Features
